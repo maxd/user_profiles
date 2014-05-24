@@ -18,7 +18,7 @@ module UserProfiles
 
       def women_ids
         @@women_ids ||= begin
-          ids = 100.times.to_a.shuffle
+          ids = 96.times.to_a.shuffle
           Enumerator.new do |y|
             loop do
               ids.each do |id|
