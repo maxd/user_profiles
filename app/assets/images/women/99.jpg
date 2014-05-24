@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+	<head>
+		<title>404 Error</title>
+		<link rel='stylesheet' href='/css/cssreset-min.css'>
+		<link rel='stylesheet' href='/css/general.css'>
+		<link rel='stylesheet' href='/css/error.css'>
+	</head>
+	<body>
+		<div class='errorbox'>
+			<h1>
+
+					Not Found
+
+
+			</h1><h2> - 404 Error (Better luck next time 
+:P)</h2>
+			<br>
+			<br>
+			<div id='msg'>
+
+					<p>Sorry. The document you were 
+looking for
+(<a href='/portraits/women/99.jpg' 
+id='url'>/portraits/women/99.jpg</a>)
+has either been moved or no longer exists.....or you just mistyped your 
+url. Feel free to go back to our
+<button class='intext' onclick='location.href="/"'>Homepage</button> and 
+search from there, or email
+us about this error (<a 
+href='mailto:support@randomuser.me'>support@randomuser.me</a>).
+
+
+
+			</div>
+		<div>
+	</body>
+</html>
